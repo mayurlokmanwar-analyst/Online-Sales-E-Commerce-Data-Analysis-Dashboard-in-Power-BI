@@ -2,11 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:01080e,40:0d1b2a,70:4682b4,100:01080e&height=220&section=header&text=E-Commerce%20Sales%20Intelligence&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%9B%92%20End-to-End%20Performance%20%E2%80%A2%20Profitability%20%E2%80%A2%20Supply%20Chain%20KPIs&descSize=18&descAlignY=60&descColor=a9d6e5&animation=fadeIn" />
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/mayurlokmanwar-analyst/Online-Sales-E-Commerce-Dashboard?color=4682b4&style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/mayurlokmanwar-analyst/Online-Sales-E-Commerce-Dashboard?color=a9d6e5&style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/mayurlokmanwar-analyst/Online-Sales-E-Commerce-Data-Analysis-Dashboard-in-Power-BI?color=4682b4&style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/mayurlokmanwar-analyst/Online-Sales-E-Commerce-Data-Analysis-Dashboard-in-Power-BI?color=a9d6e5&style=for-the-badge)
 <br/>
 
-[📊 Explore the Interactive Power BI Dashboard](https://github.com/mayurlokmanwar-analyst/Online-Sales-E-Commerce-Dashboard)
+[📊 Explore the Interactive Power BI Dashboard](https://github.com/mayurlokmanwar-analyst/Online-Sales-E-Commerce-Data-Analysis-Dashboard-in-Power-BI)
 
 </div>
 
@@ -43,7 +43,7 @@ This dashboard serves as the central nervous system for e-commerce decision-maki
 *Comprehensive overview of sales trends, regional performance, and logistics.*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/Online-Sales-E-Commerce-Dashboard/main/Online%20Sales%20E-Commerce%20Dashboard.png" alt="Online Sales Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
+  <img src="https://raw.githubusercontent.com/mayurlokmanwar-analyst/Online-Sales-E-Commerce-Data-Analysis-Dashboard-in-Power-BI/main/Online%20Sales%20E-Commerce%20Dashboard.png" alt="Online Sales Dashboard Preview" width="900" style="border-radius: 10px; border: 2px solid #1b263b;">
 </div>
 
 ---
